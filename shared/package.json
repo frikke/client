@@ -198,7 +198,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "fs-extra": "10.1.0",
     "html-webpack-plugin": "5.5.0",
-    "json5": "2.2.1",
+    "json5": "2.2.2",
     "klaw-sync": "6.0.0",
     "metro-react-native-babel-preset": "0.73.1",
     "minimist": "1.2.7",
