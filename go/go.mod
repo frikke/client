@@ -79,7 +79,7 @@ require (
 	golang.org/x/mobile v0.0.0-20211109191125-d61a72f26a1a
 	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.7
 	golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
 	gopkg.in/src-d/go-billy.v4 v4.3.2
